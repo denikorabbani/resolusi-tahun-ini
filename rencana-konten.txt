@@ -1,0 +1,4 @@
+rencana konten
+-harus bisa vs code
+-harus mengerti vscode
+-menegrti tentang web programming
