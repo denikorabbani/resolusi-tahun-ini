@@ -1,4 +1,5 @@
 rencana konten
 -harus bisa vs code
++menambahkan skil baru
 -harus mengerti vscode
 -menegrti tentang web programming
